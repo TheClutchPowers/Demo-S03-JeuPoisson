@@ -21,8 +21,9 @@ public class JeuPoisson : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 deplacement = new Vector3(0.01f, 0f, 0f);
-        _sardine.transform.position += deplacement * Time.deltaTime;
+        Vector3 deplacement = new Vector3(1f, 0f, 0f);
+        
+        _sardine.transform.position += deplacement * 4f * Time.deltaTime;
         //Debug.Log(poidsSaumon);
 
     }

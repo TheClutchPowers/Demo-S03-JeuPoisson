@@ -475,7 +475,7 @@ Transform:
   m_GameObject: {fileID: 1201327683}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.96, y: 4.43, z: 8.82008}
+  m_LocalPosition: {x: -10.59, y: 4.14, z: 8.82008}
   m_LocalScale: {x: 0.6539, y: 0.6406, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -511,7 +511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   poidsSaumon: 100
-  _poidsSardine: 20
+  _poidsSardine: 90
   _sardine: {fileID: 1201327683}
   _saumon: {fileID: 2114336832}
 --- !u!4 &1359390896
